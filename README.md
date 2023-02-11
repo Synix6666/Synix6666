@@ -117,4 +117,3 @@ I don't know if I'll ever start again but if i do i will be bigger than ever bef
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
